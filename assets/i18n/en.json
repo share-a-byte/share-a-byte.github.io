@@ -1,0 +1,53 @@
+{
+  "app_name": "JSC SMS",
+
+  "txt_title_main": "Aaina Salon",
+  "txt_sub_title_main": "JSC Global Solutions, Inc",
+
+  "txt_title_home": "Home",
+  "txt_title_login": "Login",
+  "txt_title_logout": "Logout",
+  "txt_title_ip": "IP Address",
+  "txt_title_sync": "Sync Data",
+
+  "txt_btn_login": "Login",
+  "txt_btn_submit": "Submit",
+  "txt_btn_done": "Done",
+
+  "txt_alert": "Alert!",
+
+  "txt_msg_logout": "Do you want to exit the app?",
+
+  "txt_hint_ip": "IP Address",
+  "txt_hint_auth_key": "Auth Code",
+  "txt_hint_username": "Username",
+  "txt_hint_password": "Password",
+  "txt_hint_first_name": "First Name",
+  "txt_hint_last_name": "Last Name",
+  "txt_hint_phone": "Phone",
+  "txt_hint_appt_date": "Appointment Date",
+  "txt_hint_appt_time": "Appointment Time",
+  "txt_hint_message": "Message",
+  "txt_hint_scheduler_date": "Scheduler Date",
+  "txt_hint_scheduler_time": "Scheduler Time",
+
+  "txt_val_input_ip": "Please enter IP address",
+  "txt_val_input_auth_key": "Please enter authentication code",
+  "txt_val_input_username": "Please enter username",
+  "txt_val_input_password": "Please enter password",
+  "txt_val_input_first_name": "Please enter first name",
+  "txt_val_input_last_name": "Please enter last name",
+  "txt_val_input_phone": "Please enter phone no.",
+  "txt_val_input_appointment_date": "Please enter appointment date",
+  "txt_val_input_appointment_time": "Please enter appointment time",
+  "txt_val_input_message": "Please enter message",
+  "txt_val_input_temp_no": "Please enter template no.",
+  "txt_val_input_temp_type": "Please enter template type",
+  "txt_val_input_temp_sub_type": "Please enter template sub type",
+  "txt_val_input_temp_content": "Please enter template content",
+  "txt_val_input_scheduler_date": "Please enter scheduler date",
+  "txt_val_input_scheduler_time": "Please enter scheduler time",
+
+  "txt_val_internet_connection": "Please check your internet connection",
+  "txt_val_server_issue": "Something went wrong, please try again later"
+}
